@@ -1,0 +1,231 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pl">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col23946</md:content-id>
+    <md:title>Fizyka dla szkół wyższych. Tom 1</md:title>
+    <md:language>pl</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>4eaa8f03-88a8-485a-a777-dd3602f6c13e</md:uuid>
+<md:slug>fizyka-dla-szkol-wyzszych-tom-1</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m65850"/>
+    <col:subcollection>
+      <md:title>Mechanika</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Jednostki i miary</md:title>
+          <col:content>
+            <col:module document="m65732"/>
+            <col:module document="m65733"/>
+            <col:module document="m65734"/>
+            <col:module document="m65735"/>
+            <col:module document="m65736"/>
+            <col:module document="m65737"/>
+            <col:module document="m65738"/>
+            <col:module document="m65739"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Wektory</md:title>
+          <col:content>
+            <col:module document="m65741"/>
+            <col:module document="m65742"/>
+            <col:module document="m65743"/>
+            <col:module document="m65744"/>
+            <col:module document="m65745"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Ruch prostoliniowy</md:title>
+          <col:content>
+            <col:module document="m65746"/>
+            <col:module document="m65747"/>
+            <col:module document="m65748"/>
+            <col:module document="m65749"/>
+            <col:module document="m65750"/>
+            <col:module document="m65752"/>
+            <col:module document="m65753"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Ruch w dwóch i trzech wymiarach</md:title>
+          <col:content>
+            <col:module document="m63778"/>
+            <col:module document="m63763"/>
+            <col:module document="m63772"/>
+            <col:module document="m63777"/>
+            <col:module document="m63775"/>
+            <col:module document="m63766"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Zasady dynamiki Newtona</md:title>
+          <col:content>
+            <col:module document="m65754"/>
+            <col:module document="m65755"/>
+            <col:module document="m65756"/>
+            <col:module document="m65757"/>
+            <col:module document="m65758"/>
+            <col:module document="m65759"/>
+            <col:module document="m65760"/>
+            <col:module document="m65761"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Zastosowania zasad dynamiki Newtona</md:title>
+          <col:content>
+            <col:module document="m65765"/>
+            <col:module document="m65766"/>
+            <col:module document="m65767"/>
+            <col:module document="m65768"/>
+            <col:module document="m65769"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Praca i energia kinetyczna</md:title>
+          <col:content>
+            <col:module document="m65770"/>
+            <col:module document="m65771"/>
+            <col:module document="m65772"/>
+            <col:module document="m65773"/>
+            <col:module document="m65774"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Energia potencjalna i zasada zachowania energii</md:title>
+          <col:content>
+            <col:module document="m65775"/>
+            <col:module document="m65776"/>
+            <col:module document="m65777"/>
+            <col:module document="m65778"/>
+            <col:module document="m65779"/>
+            <col:module document="m65780"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Pęd i zderzenia</md:title>
+          <col:content>
+            <col:module document="m65781"/>
+            <col:module document="m65782"/>
+            <col:module document="m65783"/>
+            <col:module document="m65785"/>
+            <col:module document="m65786"/>
+            <col:module document="m65787"/>
+            <col:module document="m65788"/>
+            <col:module document="m65789"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Obroty wokół stałej osi</md:title>
+          <col:content>
+            <col:module document="m65790"/>
+            <col:module document="m65791"/>
+            <col:module document="m65792"/>
+            <col:module document="m65793"/>
+            <col:module document="m65794"/>
+            <col:module document="m65795"/>
+            <col:module document="m65796"/>
+            <col:module document="m65797"/>
+            <col:module document="m65798"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Moment pędu</md:title>
+          <col:content>
+            <col:module document="m65799"/>
+            <col:module document="m65800"/>
+            <col:module document="m65801"/>
+            <col:module document="m65802"/>
+            <col:module document="m65803"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Równowaga statyczna i sprężystość</md:title>
+          <col:content>
+            <col:module document="m65804"/>
+            <col:module document="m65805"/>
+            <col:module document="m65806"/>
+            <col:module document="m65807"/>
+            <col:module document="m65808"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Grawitacja</md:title>
+          <col:content>
+            <col:module document="m65809"/>
+            <col:module document="m65810"/>
+            <col:module document="m65811"/>
+            <col:module document="m65812"/>
+            <col:module document="m65813"/>
+            <col:module document="m65814"/>
+            <col:module document="m65815"/>
+            <col:module document="m65816"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Mechanika płynów</md:title>
+          <col:content>
+            <col:module document="m65817"/>
+            <col:module document="m65818"/>
+            <col:module document="m65819"/>
+            <col:module document="m65820"/>
+            <col:module document="m65821"/>
+            <col:module document="m65822"/>
+            <col:module document="m65823"/>
+            <col:module document="m65824"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fale i akustyka</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Drgania</md:title>
+          <col:content>
+            <col:module document="m65825"/>
+            <col:module document="m65826"/>
+            <col:module document="m65827"/>
+            <col:module document="m65828"/>
+            <col:module document="m65830"/>
+            <col:module document="m65831"/>
+            <col:module document="m65832"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Fale</md:title>
+          <col:content>
+            <col:module document="m65833"/>
+            <col:module document="m65834"/>
+            <col:module document="m65835"/>
+            <col:module document="m65836"/>
+            <col:module document="m65837"/>
+            <col:module document="m65838"/>
+            <col:module document="m65839"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Dźwięk</md:title>
+          <col:content>
+            <col:module document="m65840"/>
+            <col:module document="m65841"/>
+            <col:module document="m65842"/>
+            <col:module document="m65843"/>
+            <col:module document="m65845"/>
+            <col:module document="m65846"/>
+            <col:module document="m65847"/>
+            <col:module document="m65848"/>
+            <col:module document="m65849"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m65851"/>
+    <col:module document="m65852"/>
+    <col:module document="m65853"/>
+    <col:module document="m65854"/>
+    <col:module document="m65855"/>
+    <col:module document="m65856"/>
+    <col:module document="m65857"/>
+  </col:content>
+</col:collection>
