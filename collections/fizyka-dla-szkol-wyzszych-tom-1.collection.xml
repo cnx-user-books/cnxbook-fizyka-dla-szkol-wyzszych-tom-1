@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pl">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pl" authors="OpenStax Poland">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col23946</md:content-id>
-    <md:title>Fizyka dla szkół wyższych. Tom 1</md:title>
+    <md:title>Fizyka dla szk&#xF3;&#x142; wy&#x17C;szych. Tom 1</md:title>
     <md:language>pl</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>4eaa8f03-88a8-485a-a777-dd3602f6c13e</md:uuid>
-<md:slug>fizyka-dla-szkol-wyzszych-tom-1</md:slug>
-</metadata>
+    <md:slug>fizyka-dla-szkol-wyzszych-tom-1</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m65850"/>
     <col:subcollection>
@@ -48,7 +49,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Ruch w dwóch i trzech wymiarach</md:title>
+          <md:title>Ruch w dw&#xF3;ch i trzech wymiarach</md:title>
           <col:content>
             <col:module document="m63778"/>
             <col:module document="m63763"/>
@@ -103,7 +104,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Pęd i zderzenia</md:title>
+          <md:title>P&#x119;d i zderzenia</md:title>
           <col:content>
             <col:module document="m65781"/>
             <col:module document="m65782"/>
@@ -116,7 +117,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Obroty wokół stałej osi</md:title>
+          <md:title>Obroty wok&#xF3;&#x142; sta&#x142;ej osi</md:title>
           <col:content>
             <col:module document="m65790"/>
             <col:module document="m65791"/>
@@ -130,7 +131,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Moment pędu</md:title>
+          <md:title>Moment p&#x119;du</md:title>
           <col:content>
             <col:module document="m65799"/>
             <col:module document="m65800"/>
@@ -140,7 +141,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Równowaga statyczna i sprężystość</md:title>
+          <md:title>R&#xF3;wnowaga statyczna i spr&#x119;&#x17C;ysto&#x15B;&#x107;</md:title>
           <col:content>
             <col:module document="m65804"/>
             <col:module document="m65805"/>
@@ -163,7 +164,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Mechanika płynów</md:title>
+          <md:title>Mechanika p&#x142;yn&#xF3;w</md:title>
           <col:content>
             <col:module document="m65817"/>
             <col:module document="m65818"/>
@@ -205,7 +206,7 @@
           </col:content>
         </col:subcollection>
         <col:subcollection>
-          <md:title>Dźwięk</md:title>
+          <md:title>D&#x17A;wi&#x119;k</md:title>
           <col:content>
             <col:module document="m65840"/>
             <col:module document="m65841"/>
