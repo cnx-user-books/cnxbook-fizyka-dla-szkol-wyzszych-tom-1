@@ -530,7 +530,7 @@ podstaw podane w treści zadania wartości drogi i czasu:<newline/>
                   </exercise>
                 </note>
                 <para id="fs-id1168328063269">Zamiana jednostek może wydawać się niezbyt ciekawa, ale pominięcie jej podczas obliczeń może nas wiele kosztować. Taka sytuacja miała miejsce, kiedy NASA wysłała w przestrzeń kosmiczną sondę <term class="no-emphasis">Mars Climate Orbiter</term>. Sondę wystrzelono 11 grudnia 1998 roku, a 23 września 1999 roku, podczas próby skierowania sondy na orbitę Marsa, utracono z nią kontakt. W wyniku późniejszego dochodzenia odkryto, że oprogramowanie SM_FORCES (lub <emphasis effect="italics">small forces</emphasis>) odbierające instrukcje dotyczące trajektorii lotu jako jednostki używało funt-siły, podczas gdy oprogramowanie służące do wyznaczania korekty tej trajektorii wyrażone było w niutonach. Tor lotu uległ znacznej zmianie, w związku z czym sonda prawdopodobnie odleciała w przestrzeń lub spaliła się w atmosferze Marsa. Ten błąd kosztował setki milionów dolarów, nie wspominając o straconym czasie, jaki poświęcono na zaplanowanie misji.</para>
-                  <equation id="eip-103" class="unnumbered"><m:math/></equation><note id="fs-id1168327869372" class="check-understanding">
+                  <equation id="eip-103" class="unnumbered"/><note id="fs-id1168327869372" class="check-understanding">
                     <exercise id="fs-id1168328059712">
                       <problem id="fs-id1168328224586">
                         <para id="fs-id1168327873248"><emphasis effect="bold">Sprawdź, czy rozumiesz.</emphasis> Wiedząc, że 1 lb (funt-siła) jest równy 4,45 N (niutonom), oceń, czy SM_FORCES generowało zbyt duże, czy zbyt małe wartości siły.</para></problem>

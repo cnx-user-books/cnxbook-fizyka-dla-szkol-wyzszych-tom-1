@@ -6921,8 +6921,7 @@
                                 <row>
                                   <entry align="left">Prawo łączności</entry>
                                   <entry align="left">
-                                    <m:math>
-                                    </m:math>
+                                    
                                     <m:math>
                                       <m:mrow>
                                         <m:mo>(</m:mo>
@@ -7064,9 +7063,7 @@
                                 <row>
                                   <entry align="left">Wartości składowych wektora w przestrzeni dwuwymiarowej</entry>
                                   <entry align="left">
-                                    <m:math>
-                                      
-                                    </m:math>
+                                    
                                     <m:math>
                                       <m:mrow>
                                         <m:mo>{</m:mo>
@@ -7376,9 +7373,7 @@
                                   <row>
                                     <entry align="left">Prawo rozdzielności względem dodawania</entry>
                                     <entry align="left">
-                                      <m:math>
-                                        
-                                      </m:math>
+                                      
                                       <m:math>
                                         <m:mi>α</m:mi>
                                         <m:mrow>
@@ -7805,9 +7800,7 @@
                                   <row>
                                     <entry align="left">Rozdzielność iloczynu skalarnego względem dodawania</entry>
                                     <entry align="left">
-                                      <m:math>
-                                        
-                                      </m:math>
+                                      
                                       <m:math>
                                         <m:mrow>
                                           <m:mover>
@@ -7978,9 +7971,7 @@
                                   <row>
                                     <entry align="left">Moduł iloczynu wektorowego (definicja)</entry>
                                     <entry align="left">
-                                      <m:math>
-                                        
-                                      </m:math>
+                                      
                                       <m:math>
                                         <m:mrow>
                                           <m:mo>|</m:mo>
@@ -8048,9 +8039,7 @@
                                   <row>
                                     <entry align="left">Rozdzielność iloczynu wektorowego względem dodawania</entry>
                                     <entry align="left">
-                                      <m:math>
-                                        
-                                      </m:math>
+                                      
                                       <m:math>
                                         <m:mrow>
                                           <m:mover>

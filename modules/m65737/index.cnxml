@@ -215,11 +215,11 @@
                   <m:mrow>
                     <m:mo>(</m:mo>
                     <m:mrow>
-                      <m:msup>
+                      <m:mmultiscripts>
                         <m:mn>10</m:mn>
-<m:mn>7</m:mn>
-                        <m:mspace width="0.2em"/>
-                      </m:msup>
+<m:mspace width="0.2em"/>
+                      <m:mn>7</m:mn>
+                        </m:mmultiscripts>
                       <m:mrow>
                         <m:mi mathvariant="normal">m</m:mi>
                       </m:mrow>

@@ -1534,9 +1534,8 @@
     </m:mrow>
   </m:math> i <m:math>
   <m:mrow>
-    <m:msup>
-      <m:mi>N</m:mi>
-    </m:msup>
+    <m:mi>N</m:mi>
+    
   </m:mrow>
 </m:math> wyliczone zostały z pierwszych dwóch zależności, zaś z danych zadania wynika, że <m:math>
 <m:mrow>
@@ -1558,9 +1557,8 @@
 </m:mrow>
 </m:math> i <m:math>
 <m:mrow>
-  <m:msup>
-    <m:mi>P</m:mi>
-  </m:msup>
+  <m:mi>P</m:mi>
+  
 </m:mrow>
 </m:math>. Wynoszą one odpowiednio:</para>
 <equation id="fs-id1165038306771" class="unnumbered">

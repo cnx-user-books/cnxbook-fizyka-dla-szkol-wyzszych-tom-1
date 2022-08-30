@@ -595,7 +595,7 @@
             <m:mo>.</m:mo>
           </m:math>
         </equation>
-        <para id="ked-1bl0qnvvk_ss8">Wynik ten jest zgodny z poprzednimi, znacznie dłuższymi obliczeniami. To przydatne twierdzenie zastosujemy też w kolejnych przykładach.</para><equation id="eip-203" class="unnumbered"><m:math/></equation>
+        <para id="ked-1bl0qnvvk_ss8">Wynik ten jest zgodny z poprzednimi, znacznie dłuższymi obliczeniami. To przydatne twierdzenie zastosujemy też w kolejnych przykładach.</para><equation id="eip-203" class="unnumbered"/>
         <note id="ked-1bl0qol0n_8n8" class="check-understanding">
           <exercise id="ked-1bl0qopkv_jd8"><problem id="ked-1bl0qopk6_8a8">
               <para id="ked-1bl0qopjc_ej8"><emphasis effect="bold">Sprawdź, czy rozumiesz.</emphasis> Jaki jest moment bezwładności walca o promieniu <m:math><m:mi>R</m:mi></m:math> i masie <m:math><m:mi>m</m:mi></m:math> liczony względem osi przechodzącej przez punkt na jego powierzchni, jak pokazano na poniższym rysunku? Oś jest prostopadła do płaszczyzny rysunku. </para>

@@ -108,9 +108,8 @@
     </m:msub>
   </m:math> jest siłą działająca na ciało 1 ze strony ciała 2, <m:math>
   <m:mrow>
-    <m:msup>
-      <m:mi>G</m:mi>
-    </m:msup>
+    <m:mi>G</m:mi>
+    
   </m:mrow>
 </m:math> jest stałą grawitacji, <m:math>
 <m:mrow>
@@ -128,9 +127,8 @@
 </m:mrow>
 </m:math> jest masą ciała 2, <m:math>
 <m:mrow>
-  <m:msup>
-    <m:mi>r</m:mi>
-  </m:msup>
+  <m:mi>r</m:mi>
+  
 </m:mrow>
 </m:math> jest odległością między tymi ciałami, a <m:math>
 <m:msub>
@@ -923,11 +921,10 @@
                   </m:mrow>
                 </m:math>, aby osiągnąć prędkość <m:math>
                 <m:mrow>
-                  <m:msup>
-                    <m:mrow>
+                  <m:mrow>
                       <m:mn>1 m/s</m:mn>
                     </m:mrow>
-                  </m:msup>
+                  
                 </m:mrow>
               </m:math>, a wówczas zbliżą się one do siebie tylko o <m:math>
               <m:mo>−</m:mo>

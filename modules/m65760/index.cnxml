@@ -1196,7 +1196,7 @@
     <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_05_06_StuckCar.jpg"/>
   </media>
   <caption>Możemy wytworzyć duże wartości siły naciągu liny, czym spowodujemy spore przemieszczenie samochodu, działając na linę siłą prostopadłą do niej, jak pokazano na powyższym rysunku.</caption>
-</figure><equation id="eip-203" class="unnumbered"><m:math/></equation>
+</figure><equation id="eip-203" class="unnumbered"/>
 <note id="fs-id1165038270335" class="check-understanding">
   <exercise id="fs-id1165036842383">
     <problem id="fs-id1165036842385">
@@ -1715,7 +1715,7 @@ Wygra więc drużyna złożona z cięższych zawodników.<newline/>
                 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_05_06_RopeTensn_img.jpg"/>
               </media>
               <newline/>
-              <m:math/>
+              
               <m:math>
                 <m:msub>
                   <m:mi>F</m:mi>

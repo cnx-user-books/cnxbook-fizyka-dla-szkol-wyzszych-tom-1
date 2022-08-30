@@ -1126,9 +1126,8 @@ tego, czy sprzęty te są włączone, czy też nie zależy? (Czy jeżeli są wy�
                         <m:mi>θ</m:mi>
                       </m:math> względem poziomu. Na wózek działają również siły grawitacji (<m:math>
                       <m:mrow>
-                        <m:msup>
-                          <m:mi>Q</m:mi>
-                        </m:msup>
+                        <m:mi>Q</m:mi>
+                        
                       </m:mrow>
                     </m:math>), reakcji podłoża (<m:math>
                     <m:mrow>

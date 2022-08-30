@@ -4669,9 +4669,8 @@
         <m:msup>
           <m:mi>N</m:mi>
           <m:mrow>
-            <m:msup>
-              <m:mo>′</m:mo>
-            </m:msup>
+            <m:mo>′</m:mo>
+            
           </m:mrow>
         </m:msup>
       </m:math>

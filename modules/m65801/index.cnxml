@@ -221,9 +221,8 @@
   <m:mo>⋅</m:mo>
   <m:mi mathvariant="normal">m</m:mi>
   <m:mspace width="0.1em"/><m:mtext>/</m:mtext><m:mspace width="0.1em"/>
-  <m:msup>
-    <m:mi mathvariant="normal">s</m:mi>
-  </m:msup>
+  <m:mi mathvariant="normal">s</m:mi>
+  
 </m:mrow>
 </m:math>. </para><para id="fs-id1165037056537">Podobnie jak w przypadku definicji momentu siły możemy zdefiniować ramię (wektora) pędu <m:math>
   <m:mrow>
